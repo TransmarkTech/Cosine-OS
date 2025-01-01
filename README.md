@@ -1,5 +1,32 @@
-Cosine App 是一个使用 Electron 开发的桌面应用程序
-让您能在本地体验 Cosine OS
+# 简介
 
-现支持 Windows、Android 平台
-未来将支持 iOS、Mac 平台
+------------
+
+
+# 技术
+### 系统
+内核: Scratch 3
+编辑器: TurboWrap
+
+### App
+内核: Electron
+
+------------
+
+
+#贡献
+### 开发者
+Ckize
+Fast
+Creeper
+James Xu
+C0C
+
+### 鸣谢
+Wowgames
+
+------------
+
+
+# 赞助
+![](https://github.com/TransmarkTech/Cosine-OS/blob/main/QRcode.png)
