@@ -29,4 +29,4 @@ Wowgames
 
 
 # 赞助
-![](https://github.com/TransmarkTech/Cosine-OS/blob/main/QRcode.png)
+![](https://s21.ax1x.com/2025/01/01/pESJqGq.png)
