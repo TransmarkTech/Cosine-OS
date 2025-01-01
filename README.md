@@ -1,3 +1,5 @@
+![banner](https://s21.ax1x.com/2025/01/01/pESt4EQ.png "banner")
+
 # 简介
 
 ------------
@@ -29,4 +31,4 @@ Wowgames
 
 
 # 赞助
-![](https://s21.ax1x.com/2025/01/01/pESJqGq.png)
+![QRcode](https://s21.ax1x.com/2025/01/01/pESJqGq.png)
