@@ -31,4 +31,4 @@ Wowgames
 
 
 # 赞助
-![QRcode](https://s21.ax1x.com/2025/01/01/pESJqGq.png)
+![QRcode]([https://s21.ax1x.com/2025/01/01/pESJqGq.png](https://github.com/TransmarkTech/Cosine-OS/blob/main/QRcode.png))
