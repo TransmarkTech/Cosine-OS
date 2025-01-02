@@ -18,9 +18,9 @@
 
 #贡献
 ### 开发者
-Ckize
-Fast
-Creeper
+[Ckize](https://github.com/GongZhenAB)
+[Fast](https://github.com/Fast-Studio)
+[Creeper](https://github.com/Creeper0808)
 James Xu
 C0C
 
