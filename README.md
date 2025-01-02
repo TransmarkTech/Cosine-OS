@@ -1,4 +1,4 @@
-![banner](https://s21.ax1x.com/2025/01/01/pESt4EQ.png "banner")
+![banner]([https://s21.ax1x.com/2025/01/01/pESt4EQ.png "banner"](http://transmark.tech/image-host/cosine-project.png))
 
 # 简介
 
@@ -31,4 +31,4 @@ Wowgames
 
 
 # 赞助
-![QRcode]([https://s21.ax1x.com/2025/01/01/pESJqGq.png](https://github.com/TransmarkTech/Cosine-OS/blob/main/QRcode.png))
+![QRcode](http://transmark.tech/image-host/donatecode.png)
