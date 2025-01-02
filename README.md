@@ -1,4 +1,4 @@
-![banner]([https://s21.ax1x.com/2025/01/01/pESt4EQ.png "banner"](http://transmark.tech/image-host/cosine-project.png))
+![banner](http://transmark.tech/image-host/cosine-project.png))
 
 # 简介
 
