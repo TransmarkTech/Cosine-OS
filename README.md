@@ -1,4 +1,4 @@
-![banner](http://transmark.tech/image-host/cosine-project.png))
+![banner](http://transmark.tech/image-host/cosine-project.png)
 
 # 简介
 
