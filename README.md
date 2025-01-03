@@ -7,7 +7,7 @@
 
 # 技术
 ### 系统
-内核: Scratch 3
+内核: Scratch 3  
 编辑器: TurboWrap
 
 ### App
