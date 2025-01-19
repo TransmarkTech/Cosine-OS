@@ -1,4 +1,4 @@
-![banner](http://transmark.tech/image-host/cosine-project.png)
+![banner](http://transmark.tech/image-host/cosprj-banner.jpg)
 
 # 简介
 > Cosine OS 是一个基于 Scratch 开发的伪操作系统，旨在为用户提供一个强大且易于使用的平台，同时简化开发者的开发流程。
@@ -63,4 +63,4 @@ Wowgames
 
 
 # 赞助
-![QRcode](http://transmark.tech/image-host/donatecode.png)
+![QRcode](http://transmark.tech/image-host/QRcode.jpg)
