@@ -28,7 +28,7 @@
 
 
 #### 欢迎关注我们的社交媒体，一起探索更多可能！
-[![bilibili](https://transmark.tech/image-host/linkbtn-bilibili)](https://space.bilibili.com/3546824421935440)
+[![bilibili](https://transmark.tech/image-host/linkbtn-bilibili.png)](https://space.bilibili.com/3546824421935440)
 
 ------------
 
