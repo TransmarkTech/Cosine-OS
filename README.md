@@ -56,9 +56,3 @@ C0C
 
 ### 鸣谢
 Wowgames
-
-------------
-
-
-# 赞助
-![QRcode](https://transmark.tech/image-host/QRcode.jpg)
