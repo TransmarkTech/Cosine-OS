@@ -1,10 +1,7 @@
-![banner](https://transmark.tech/image-host/cosprj-banner.jpg)
+![banner](image/banner.jpg)
 
 # 简介
 > Cosine OS 是一个基于 Scratch 开发的伪操作系统，旨在为用户提供一个强大且易于使用的平台，同时简化开发者的开发流程。
-
-### 项目概要
-自立项以来，我们一直致力于创新与优化 Cosine OS，不断进行技术更新，为用户带来更加卓越的使用体验。
 
 ### 主要特性
 * **全局深色模式**
@@ -28,7 +25,7 @@
 
 
 #### 欢迎关注我们的社交媒体，一起探索更多可能！
-[![bilibili](https://transmark.tech/image-host/linkbtn-bilibili.png)](https://space.bilibili.com/3546824421935440)
+[![bilibili](image/linkbtn-bilibili.png)](https://space.bilibili.com/3546824421935440)
 
 ------------
 
@@ -46,13 +43,9 @@
 ------------
 
 
-# 贡献
-### 开发者
-[Ckize](https://github.com/GongZhenAB)  
-[Fast](https://github.com/Fast-Studio)  
-[Creeper](https://github.com/Creeper0808)  
-James Xu  
-C0C  
-
-### 鸣谢
-Wowgames
+# 开发者
+[Ckize](https://github.com/GongZhenAB)
+[Fast](https://github.com/Fast-Studio)
+[Creeper](https://github.com/Creeper0808)
+[James Xu](https://github.com/)
+[C0C](https://github.com/IC0CI)
